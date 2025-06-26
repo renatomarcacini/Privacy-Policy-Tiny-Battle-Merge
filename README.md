@@ -1,3 +1,4 @@
+## Tiny Battle Merge: Privacy policy
 Welcome to the Tiny Battle Merge app for Android!
 
 This is an open source Android app developed by Renato Gomes Marcacini. The app is also available on Google Play.
